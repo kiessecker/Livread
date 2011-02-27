@@ -1,0 +1,37 @@
+# r
+# This software uses monocle, dojo x, jquery libraries
+# Dictionary is not public domain, so please do not share 
+# It was for development only, please use free dictionaries instead
+
+How to set up
+=============
+
+1. Upload to web directory
+2. Create database + user and populate mysqldump.sql
+	$ mysql -uUsername -pPassword DatabaseName<mysqldump.sql
+2. edit config/config.php to fit to paths and database user
+
+	I have set up a demo user with data 
+	username=kiessecker, password=hello
+
+3. install wine and calibre ebook management
+if necessary use xvfb-run to get a virtual framebuffer to run ebook-convert.exe from apache
+or use calibre from linux repository - but probably you need a virtual framebuffer either to convert?? I don't know
+
+
+
+4. modify includes/uploadbook.php and  
+5. modify includes/functions.php and especially the function livreadEbookConvert2Any
+	so that apache initiates conversion of uploaded book
+	for this a script is generated and run
+
+	Modify or do it better
+
+6. Install sapi and tts voices within wine and use sapi2wav.exe to convert on-the-fly read-out 
+Or you could use cepstral voices with the linux commandline tools
+
+
+6. test and debug
+
+
+Info: Doubleclick on Word will query dictionary (table ed, which means english-german); this is only example dictionary data, there are most words deleted to prevent copyright issues.

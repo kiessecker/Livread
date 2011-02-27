@@ -1,0 +1,176 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #000;
+  -webkit-user-select: none;
+  -webkit-text-size-adjust: none;
+}
+
+#components {
+  display: none;
+}
+
+#reader, #readerBg {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+#reader div pre {
+  white-space: normal;
+  font: normal 100% serif;
+}
+
+/* from smallest and outermost to largest and innermost */
+.dummyPage {
+  position: absolute;
+  left: 0;
+  top: 20px;
+  bottom: 20px;
+  right: 15px;
+  background-color: #FCF6F0;
+  -webkit-box-shadow: 2px 2px 4px #754;
+  -moz-box-shadow: 2px 2px 4px #754;
+  -webkit-border-top-left-radius: 26px 6px;
+  -webkit-border-bottom-left-radius: 26px 6px;
+  -moz-border-radius-topleft: 26px 6px;
+  -moz-border-radius-bottomleft: 26px 6px;
+}
+.dummyPage + .dummyPage {
+  top: 16px;
+  bottom: 16px;
+  right: 16px;
+  -webkit-box-shadow: 1px 0 2px #A99;
+  -moz-box-shadow: 1px 0 2px #A99;
+}
+.dummyPage + .dummyPage + .dummyPage {
+  top: 13px;
+  bottom: 13px;
+  right: 18px;
+  background-color: #FFF9F4;
+}
+.dummyPage + .dummyPage + .dummyPage + .dummyPage {
+  top: 10px;
+  bottom: 10px;
+  right: 21px;
+}
+.dummyPage + .dummyPage + .dummyPage + .dummyPage + .dummyPage {
+  top: 8px;
+  bottom: 8px;
+  right: 25px;
+}
+.jacket {
+  position: absolute;
+  top: 1px;
+  bottom: 1px;
+  right: 3px;
+  left: 65%;
+  -webkit-box-shadow: -3px 0 3px #311;
+  -moz-box-shadow: -3px 0 3px #311;
+  -webkit-border-top-right-radius: 3px;
+  -webkit-border-bottom-right-radius: 3px;
+  -moz-border-radius-topright: 3px;
+  -moz-border-radius-bottomright: 3px;
+  background-color: #F7F7F7;
+  background: -webkit-gradient(linear, left top, right bottom, from(#FFF), to(#DDD));
+}
+.board {
+  position: absolute;
+  top: 1px;
+  bottom: 1px;
+  width: 90%;
+  background-color: #974;
+  border: 1px solid #852;
+}
+
+.runner {
+  color: #976;
+  text-transform: uppercase;
+  font-size: 82%;
+}
+
+.pageNumber, .bookTitle, .chapterTitle {
+  padding: 6px 12px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border: 1px solid #FFFEFC;
+}
+
+.bookTitle, .chapterTitle {
+  position: absolute;
+  top: 10px;
+  left: 1em;
+  cursor: pointer;
+  padding-left: 0;
+}
+
+.chapterTitle {
+  top: auto;
+  bottom: 10px;
+}
+
+.pageNumber {
+  position: absolute;
+  bottom: 10px;
+  right: 1em;
+  padding-right: 0;
+}
+
+#readerBg {
+  background-color: #000;
+}
+
+#toc ul.root {
+  position: absolute;
+  top: 50px;
+  left: 8%;
+  max-height: 75%;
+  max-width: 80%;
+  background: #E0D3C0;
+  -webkit-box-shadow: 1px 2px 2px #652;
+  -moz-box-shadow: 1px 2px 2px #652;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  overflow-y: auto;
+  color: #642;
+  font: 11pt Georgia, serif;
+  text-shadow: 1px 1px #EEE6D0;
+  border: 1px solid #EED;
+  z-index: 9;
+}
+
+.tocArrow {
+  position: absolute;
+  top: 40px;
+  left: 16%;
+  width: 20px;
+  height: 20px;
+  -webkit-transform: rotateZ(45deg);
+  background: #E0D3C0;
+  z-index: 8;
+}
+
+#toc li {
+  list-style: none;
+  line-height: 220%;
+  padding-left: 1em;
+  padding-right: 2em;
+  border-bottom: 2px groove #FFF6E9;
+  cursor: pointer;
+}
+
+#toc li span {
+  display: block;
+}
+
+#toc ul li:last-child {
+  border-bottom: none;
+}
+
+#toc ul {
+  margin: 0;
+  padding: 0;
+}
+#toc ul.root {
+  border-top: none;
+}

@@ -1,0 +1,14 @@
+<td><script language="JavaScript" src="http://www.wildflowerusa.com/audio/audio-player.js"></script>
+Listen to "Magic in the Sky" -
+<script type="text/javascript">
+AC_FL_RunContent( 'type','application/x-shockwave-flash','data','http://www.wildflowerusa.com/audio/audio/player.swf','id','audioplayer1','height','14','width','235','movie','http://www.wildflowerusa.com/audio/player','flashvars','playerID=1&soundFile=http://www.wildflowerusa.com/audio/magic-in-the-sky.mp3','quality','high','menu','false','wmode','transparent' ); //end AC code
+</script>​​​​​<embed data="http://www.wildflowerusa.com/audio/audio/player.swf" src="http://www.wildflowerusa.com/audio/player.swf" flashvars="playerID=1&amp;soundFile=http://www.wildflowerusa.com/audio/magic-in-the-sky.mp3" quality="high" menu="false" wmode="transparent" type="application/x-shockwave-flash" width="235" height="14">​​​​​ 
+<noscript>
+<object type="application/x-shockwave-flash" data="http://www.wildflowerusa.com/audio/audio/player.swf" id="audioplayer6" height="14" width="235">
+  <param name="movie" value="http://www.wildflowerusa.com/audio/player.swf" />
+  <param name="FlashVars" value="playerID=1&amp;soundFile=http://www.wildflowerusa.com/audio/magic-in-the-sky.mp3" />
+  <param name="quality" value="high" />
+  <param name="menu" value="false" />
+  <param name="wmode" value="transparent" />
+</object>
+</noscript></td>

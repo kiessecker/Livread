@@ -1,0 +1,1 @@
+SELECT * FROM notes WHERE username='kiessecker' ORDER BY notes_id DESC

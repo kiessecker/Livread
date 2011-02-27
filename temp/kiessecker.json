@@ -1,0 +1,360 @@
+{
+identifier: 'id',
+label: 'name',
+items: [
+
+
+
+{ id: '88c3efeec446dd228d41053296f07d16', name:'Admini', writer:'Admini', type:'author',
+children:[{_reference:'1f8e320ca58772ab36684d46eafe28b9'}]},
+	
+{ id: '1f8e320ca58772ab36684d46eafe28b9', name:'The Tibetan Book of the Dead (64)  |  epub jpg txt prc', type:'country' },
+
+
+{ id: 'debf366e83df5541c66258d9dbf1b5e6', name:'Adrian Graham', writer:'Adrian Graham', type:'author',
+children:[{_reference:'ea83e135faa7146a2fac771674f4d26f'}]},
+	
+{ id: 'ea83e135faa7146a2fac771674f4d26f', name:'The Revelation_ And a Hundred Other Stories (51)  |  txt mobi epub', type:'country' },
+
+
+{ id: 'd7ed32aa48ab3fca564629b3ac17f79b', name:'Arthur Conan Doyle', writer:'Arthur Conan Doyle', type:'author',
+children:[{_reference:'cc51680127ef9b3d6982943e734f7c30'},{_reference:'2bd6c4307805b9c12126bf7dc29d128f'},{_reference:'5fa0dd0abed55181967f81858a6f9407'},{_reference:'3fd920b2fbbb88ebeaea5f9355143d9e'}]},
+	
+{ id: 'cc51680127ef9b3d6982943e734f7c30', name:'His Last Bow (33)  |  mobi txt epub', type:'country' },
+	
+{ id: '2bd6c4307805b9c12126bf7dc29d128f', name:'The Adventures of Sherlock Holmes (32)  |  jpg txt mobi epub', type:'country' },
+	
+{ id: '5fa0dd0abed55181967f81858a6f9407', name:'The Lost World (30)  |  epub mobi txt', type:'country' },
+	
+{ id: '3fd920b2fbbb88ebeaea5f9355143d9e', name:'The Memoirs of Sherlock Holmes (31)  |  mobi epub txt', type:'country' },
+
+
+{ id: '2a8fdd4e9e3071c13a8f4a65a36d4e93', name:'Bhikkhu Bodhi', writer:'Bhikkhu Bodhi', type:'author',
+children:[{_reference:'50faa4331ba51f00984c1ba45aa0db19'},{_reference:'df769d01ffc7ef95fc68897370b6ade6'}]},
+	
+{ id: '50faa4331ba51f00984c1ba45aa0db19', name:'Teachings of Buddha Comprehensive with Exercise (78)  | ', type:'country' },
+	
+{ id: 'df769d01ffc7ef95fc68897370b6ade6', name:'Teachings of Buddha Introduction (71)  | ', type:'country' },
+
+
+{ id: '9f6dc7ca4824a0bb1e5bdc8e3b7d64fe', name:'Bibel', writer:'Bibel', type:'author',
+children:[{_reference:'00c5b4861a4538218583fa05752a6722'},{_reference:'e52c9f148e4d428c60b1255db8b7cde7'}]},
+	
+{ id: '00c5b4861a4538218583fa05752a6722', name:'Elberfelder Bibel 1985 (8)  |  txt epub', type:'country' },
+	
+{ id: 'e52c9f148e4d428c60b1255db8b7cde7', name:'Elberfelder Bibel 1985 No numbers  |  txt', type:'country' },
+
+
+{ id: 'fc16b4d9aa27b7cfb3a71e5729430731', name:'Edgar Rice Burroughs', writer:'Edgar Rice Burroughs', type:'author',
+children:[{_reference:'265a089ca2ebc9765d2e73dc30899f74'}]},
+	
+{ id: '265a089ca2ebc9765d2e73dc30899f74', name:'Tarzan, Lord of the Jungle (59)  |  epub mobi txt', type:'country' },
+
+
+{ id: '04fefecf5f07dbddc9fdf5c317d61580', name:'Ellen White', writer:'Ellen White', type:'author',
+children:[{_reference:'83da09db630bca6fa2c0605da9ed94dd'},{_reference:'50eb256974d73ace60f80bd209e152b0'}]},
+	
+{ id: '83da09db630bca6fa2c0605da9ed94dd', name:'Desire of Ages (19)  |  mobi txt epub', type:'country' },
+	
+{ id: '50eb256974d73ace60f80bd209e152b0', name:'Steps to Christ (18)  |  txt epub mobi', type:'country' },
+
+
+{ id: '8cf0e6d0f0c3a02e9d0ecea3ed305818', name:'Evangelien', writer:'Evangelien', type:'author',
+children:[{_reference:'675a4a1cfccd8978cb30692f2fde3cb4'}]},
+	
+{ id: '675a4a1cfccd8978cb30692f2fde3cb4', name:'Thomasevangelium (6)  |  txt epub jpg mobi', type:'country' },
+
+
+{ id: '05839c5bcae6dfab99d4833ab34fbda2', name:'F.F. Bosworth', writer:'F.F. Bosworth', type:'author',
+children:[{_reference:'13da2ce08dee995c3cee901d48c07534'}]},
+	
+{ id: '13da2ce08dee995c3cee901d48c07534', name:'Christus unser Heiler  |  epub pdf txt', type:'country' },
+
+
+{ id: 'fb1143f1019e2477540941caf7dd02a6', name:'Felix Adler', writer:'Felix Adler', type:'author',
+children:[{_reference:'7e893d440b973f09b021cda3a6c2307b'}]},
+	
+{ id: '7e893d440b973f09b021cda3a6c2307b', name:'Essentials of Spirituality (45)  |  epub txt prc', type:'country' },
+
+
+{ id: '0acfe56081a462512d60defd4cc6bb99', name:'Gilbert Keith Chesterton', writer:'Gilbert Keith Chesterton', type:'author',
+children:[{_reference:'27a31734088fc562c9e18be05538b3d4'}]},
+	
+{ id: '27a31734088fc562c9e18be05538b3d4', name:'The Innocence of Father Brown (65)  |  jpg txt epub', type:'country' },
+
+
+{ id: '6e95ba91a9583ea42a3bdd69f385c025', name:'Gustave Flaubert', writer:'Gustave Flaubert', type:'author',
+children:[{_reference:'8552b0afd3c1359c6a347f95561e103e'}]},
+	
+{ id: '8552b0afd3c1359c6a347f95561e103e', name:'Madame Bovary (7)  |  mobi txt epub', type:'country' },
+
+
+{ id: 'ae28c16b6a851c967811743a45513880', name:'Hans Christian Andersen', writer:'Hans Christian Andersen', type:'author',
+children:[{_reference:'fcc1e7721518c563c415ee1069fc1e61'}]},
+	
+{ id: 'fcc1e7721518c563c415ee1069fc1e61', name:'Marchen (13)  |  txt jpg prc', type:'country' },
+
+
+{ id: '5dbd282e06c4e018be3645cbbd342eb3', name:'Hendrik Antoon Lorentz', writer:'Hendrik Antoon Lorentz', type:'author',
+children:[{_reference:'293dbf381ac2b0aff280b945dfc9a734'}]},
+	
+{ id: '293dbf381ac2b0aff280b945dfc9a734', name:'The Einstein Theory of Relativity (39)  |  mobi txt epub', type:'country' },
+
+
+{ id: '9c1421182c343b69f132355f7ba7dbb4', name:'Henry Drummond', writer:'Henry Drummond', type:'author',
+children:[{_reference:'01ffc667fac94c9cb70a7eb74c58886d'}]},
+	
+{ id: '01ffc667fac94c9cb70a7eb74c58886d', name:'Spiritual World (60)  |  prc epub txt', type:'country' },
+
+
+{ id: '8e060f01484ced099d68d45a56b8f9a3', name:'Henry Rider Haggard', writer:'Henry Rider Haggard', type:'author',
+children:[{_reference:'7d072f1aab406cba4f763b8d2589d7c8'}]},
+	
+{ id: '7d072f1aab406cba4f763b8d2589d7c8', name:'She (56)  |  txt mobi epub', type:'country' },
+
+
+{ id: '254baae60daeb66644aee815462dac69', name:'Henry van Dyke', writer:'Henry van Dyke', type:'author',
+children:[{_reference:'d5dfa71a19176ec890d77e760f3a49b7'}]},
+	
+{ id: 'd5dfa71a19176ec890d77e760f3a49b7', name:'The Spirit of Christmas (46)  |  mobi txt epub', type:'country' },
+
+
+{ id: 'c23ecaf8fcccc46aa3c1e6b05ebce72b', name:'Herbert George Wells', writer:'Herbert George Wells', type:'author',
+children:[{_reference:'8029c49f5ff817306b4dc7a1617b2047'}]},
+	
+{ id: '8029c49f5ff817306b4dc7a1617b2047', name:'Tales of Space and Time (34)  |  mobi txt epub', type:'country' },
+
+
+{ id: '652638962774c66b5115abe96af8c94b', name:'Hermann Hesse', writer:'Hermann Hesse', type:'author',
+children:[{_reference:'1343554b4f45c3addcd52e0afc58b3bf'}]},
+	
+{ id: '1343554b4f45c3addcd52e0afc58b3bf', name:'Siddhartha (9)  |  txt epub mobi', type:'country' },
+
+
+{ id: '518183d207ac39dd55a8b0ecced4ab3e', name:'hermit', writer:'hermit', type:'author',
+children:[{_reference:'9adfdff9bf79b60e70572515f87d0cbe'}]},
+	
+{ id: '9adfdff9bf79b60e70572515f87d0cbe', name:'The Cure of Most Diseases (70)  |  txt epub mobi', type:'country' },
+
+
+{ id: '6808487b571183152e1d42e214d27a6f', name:'Homer', writer:'Homer', type:'author',
+children:[{_reference:'840cf23b39a0ad8fc07f2a458a6dafe1'}]},
+	
+{ id: '840cf23b39a0ad8fc07f2a458a6dafe1', name:'Illiad (17)  |  epub jpg prc txt', type:'country' },
+
+
+{ id: '51684e074fde2075457826b2b9f6cb44', name:'IANDS', writer:'IANDS', type:'author',
+children:[{_reference:'257c527a1e162a68e145a1afadaf663a'}]},
+	
+{ id: '257c527a1e162a68e145a1afadaf663a', name:'IANDS Message Boards_ NDE Narratives (52)  |  epub jpg txt', type:'country' },
+
+
+{ id: '0c1251d0d588622049d5e45a86611d02', name:'Isabella Bird', writer:'Isabella Bird', type:'author',
+children:[{_reference:'235db6c5b72846229bd57d1a940bb2aa'}]},
+	
+{ id: '235db6c5b72846229bd57d1a940bb2aa', name:'Among the Tibetans (44)  |  epub txt prc', type:'country' },
+
+
+{ id: '5c837fa5cd8dc1d65430c3795ed44674', name:'J. Allanson Picton', writer:'J. Allanson Picton', type:'author',
+children:[{_reference:'4e350b6b87aa7cfac07c2b3c75b3111f'}]},
+	
+{ id: '4e350b6b87aa7cfac07c2b3c75b3111f', name:'Pantheism Its Story and Significance (63)  |  txt epub jpg', type:'country' },
+
+
+{ id: 'e19f379d51a72848798ff65f62f00fde', name:'Jack London', writer:'Jack London', type:'author',
+children:[{_reference:'8cb81a985ec6acfe7f38c23112d71764'},{_reference:'cb5af86891a68a033f9033c6446a1a3d'}]},
+	
+{ id: '8cb81a985ec6acfe7f38c23112d71764', name:'A Son of the Sun (41)  |  epub txt mobi', type:'country' },
+	
+{ id: 'cb5af86891a68a033f9033c6446a1a3d', name:'The Sea Wolf (40)  |  mobi epub txt', type:'country' },
+
+
+{ id: '3af5e3fc71efc144b55a1f3a3ac5e309', name:'Jane Austen', writer:'Jane Austen', type:'author',
+children:[{_reference:'2efd1a14ff112aed6a8aedaf078801b8'}]},
+	
+{ id: '2efd1a14ff112aed6a8aedaf078801b8', name:'Pride and Prejudice (20)  |  txt epub mobi', type:'country' },
+
+
+{ id: 'bfa5ed3fc47adce7dc94b16754c769fa', name:'Johann Wolfgang von Goethe', writer:'Johann Wolfgang von Goethe', type:'author',
+children:[{_reference:'281aed73136be379b493040ec73020c5'},{_reference:'cebe0ff9a41cdd31b1b1cba4a441fa4c'},{_reference:'deb29aed373f7799765cd55b3cb348d9'},{_reference:'4b1f14b669c18a62aa93edb9d83170c7'},{_reference:'952f8d5f54071b3233f00b3e61cd3a66'},{_reference:'a0816f6b58f36b3044fa648ab70bd189'}]},
+	
+{ id: '281aed73136be379b493040ec73020c5', name:'Die Leiden des jungen Werther (21)  |  txt prc epub', type:'country' },
+	
+{ id: 'cebe0ff9a41cdd31b1b1cba4a441fa4c', name:'Faust (22)  |  epub jpg txt', type:'country' },
+	
+{ id: 'deb29aed373f7799765cd55b3cb348d9', name:'Faust a Tragedy  |  epub txt', type:'country' },
+	
+{ id: '4b1f14b669c18a62aa93edb9d83170c7', name:'Faust a Tragedy _ English  |  epub txt', type:'country' },
+	
+{ id: '952f8d5f54071b3233f00b3e61cd3a66', name:'Prometheus (23)  |  txt prc epub', type:'country' },
+	
+{ id: 'a0816f6b58f36b3044fa648ab70bd189', name:'Westostlicher Diwan (24)  | ', type:'country' },
+
+
+{ id: 'c65486951b3c157d24db1695b261c298', name:'Jules Verne', writer:'Jules Verne', type:'author',
+children:[{_reference:'5aa13c3cbd7c3abcc2f064b22fd1912b'}]},
+	
+{ id: '5aa13c3cbd7c3abcc2f064b22fd1912b', name:'Off on a Comet (47)  |  txt 2010-07-29_06-29 epub 2010-07-29_05-58 2010-07-29_06-09 2010-07-29_06-05 2010-07-29_06-13 mobi 2010-07-29_06-08 2010-07-29_06-10', type:'country' },
+
+
+{ id: 'dd4d5ef7f22be3cccff1d629b25cf8f9', name:'Kelly Link', writer:'Kelly Link', type:'author',
+children:[{_reference:'c9b256cbd37cdabef02c588890a296ac'},{_reference:'5c8af3decf9b5e9dba5dc97055e6b283'}]},
+	
+{ id: 'c9b256cbd37cdabef02c588890a296ac', name:'Magic for Beginners (57)  |  mobi epub txt', type:'country' },
+	
+{ id: '5c8af3decf9b5e9dba5dc97055e6b283', name:'Stranger Things Happen (58)  |  txt mobi epub', type:'country' },
+
+
+{ id: '68447f032f2d28959325128706a351f1', name:'Kevin Williams', writer:'Kevin Williams', type:'author',
+children:[{_reference:'0d7ea7754b018d102c59d222b044a62a'}]},
+	
+{ id: '0d7ea7754b018d102c59d222b044a62a', name:'Nothing Better Than Death (from txt version) (74)  |  epub txt', type:'country' },
+
+
+{ id: '47a9f89afcd8eafd3fef79d8a56a251d', name:'Lev Nikolayevich Tolstoy', writer:'Lev Nikolayevich Tolstoy', type:'author',
+children:[{_reference:'4ffa63b3995d1b0b13e4679a7c105e5d'},{_reference:'d79239c97c32946e8b5d83ace73b1a6b'},{_reference:'c91cd2f123ab86c0726e6cf49f61f048'}]},
+	
+{ id: '4ffa63b3995d1b0b13e4679a7c105e5d', name:'War and Peace (26)  |  epub mobi txt', type:'country' },
+	
+{ id: 'd79239c97c32946e8b5d83ace73b1a6b', name:'Where Love is, There God is Also (27)  |  jpg epub txt', type:'country' },
+	
+{ id: 'c91cd2f123ab86c0726e6cf49f61f048', name:'Work, Death, and Sickness (28)  |  txt epub jpg', type:'country' },
+
+
+{ id: '40489bab2ee539fe835ac0b66cfcd91b', name:'Lew Tolstoi', writer:'Lew Tolstoi', type:'author',
+children:[{_reference:'85998afedd7ddd8140d5a7ddc14b0c18'}]},
+	
+{ id: '85998afedd7ddd8140d5a7ddc14b0c18', name:'Anna Karenina (25)  |  txt jpg mobi epub', type:'country' },
+
+
+{ id: 'c94e1c12dcf38a15f4cb517fe7abd127', name:'Lewis Carroll', writer:'Lewis Carroll', type:'author',
+children:[{_reference:'3011c300e2b440b645ef59c96995b8dc'}]},
+	
+{ id: '3011c300e2b440b645ef59c96995b8dc', name:'Alice im Wunderland (12)  |  epub jpg txt prc', type:'country' },
+
+
+{ id: '38343bde8261de1d71a0b573b1ab9d76', name:'Lilly iLumina', writer:'Lilly iLumina', type:'author',
+children:[{_reference:'77c7bb3860d8f535d014da46e1d26c4e'}]},
+	
+{ id: '77c7bb3860d8f535d014da46e1d26c4e', name:'Die Humpflinge vom kleinen Teich (72)  |  txt epub', type:'country' },
+
+
+{ id: '791559040ef43468aa621d4151dd4cf7', name:'Lonely Soul', writer:'Lonely Soul', type:'author',
+children:[{_reference:'d7a76d2b0902f2d24d9421e834dbed22'}]},
+	
+{ id: 'd7a76d2b0902f2d24d9421e834dbed22', name:'Biblical Mysteries (69)  |  epub txt mobi', type:'country' },
+
+
+{ id: '86ad6af47b54d6fc08c1a692b9a0024b', name:'Lyman Frank Baum', writer:'Lyman Frank Baum', type:'author',
+children:[{_reference:'86dc9407d4a54d5efc2b458f392e773d'},{_reference:'03e6e859b98fac93dbb269ff44f2cee0'}]},
+	
+{ id: '86dc9407d4a54d5efc2b458f392e773d', name:'American Fairy Tales (49)  |  mobi epub txt', type:'country' },
+	
+{ id: '03e6e859b98fac93dbb269ff44f2cee0', name:'The Wonderful Wizard of Oz (48)  |  epub mobi txt', type:'country' },
+
+
+{ id: 'c03e0f476b303509bb8c5215687d5ca2', name:'Mark Twain', writer:'Mark Twain', type:'author',
+children:[{_reference:'fc2958f3ae1d0b598e4e810993c17787'},{_reference:'9bd1f607e4ff045ab0a1aa6b6007edc1'}]},
+	
+{ id: 'fc2958f3ae1d0b598e4e810993c17787', name:'Die Schrecken der deutschen Sprache (36)  |  txt mobi epub', type:'country' },
+	
+{ id: '9bd1f607e4ff045ab0a1aa6b6007edc1', name:'The Adventures of Tom Sawyer (35)  |  epub txt mobi', type:'country' },
+
+
+{ id: '44768e121248ea72f49a3d32f2a97d9b', name:'Oscar Wilde', writer:'Oscar Wilde', type:'author',
+children:[{_reference:'c785a3898e0128b167d3683b420627fd'}]},
+	
+{ id: 'c785a3898e0128b167d3683b420627fd', name:'The Picture of Dorian Gray (14)  |  txt mobi epub', type:'country' },
+
+
+{ id: 'e2baf3f5223080b8067f5af7843427cc', name:'Platon', writer:'Platon', type:'author',
+children:[{_reference:'99bec2297c6c35c94e3b16d047b98b93'},{_reference:'47d1c7fc482041839a3b8309fb988ef0'}]},
+	
+{ id: '99bec2297c6c35c94e3b16d047b98b93', name:'Das Gastmahl (16)  |  epub txt prc jpg', type:'country' },
+	
+{ id: '47d1c7fc482041839a3b8309fb988ef0', name:'Eryxias (15)  |  prc epub txt', type:'country' },
+
+
+{ id: 'a6ff250658ef14375c0dd2a091aa0078', name:'Richard Herley', writer:'Richard Herley', type:'author',
+children:[{_reference:'2acb700a8fd5d7604c438e58e9db0b16'}]},
+	
+{ id: '2acb700a8fd5d7604c438e58e9db0b16', name:'The Earth Goddess (50)  |  txt epub mobi', type:'country' },
+
+
+{ id: 'a21658fe8a6d6e1d4109176539675a80', name:'Robert Bogoda', writer:'Robert Bogoda', type:'author',
+children:[{_reference:'7304cdb0fa0d788ac74717df25845e84'},{_reference:'b8ed7c7959159cb925975618c460f1b7'}]},
+	
+{ id: '7304cdb0fa0d788ac74717df25845e84', name:'A Simple Guide to Life (67)  |  mobi txt jpg epub', type:'country' },
+	
+{ id: 'b8ed7c7959159cb925975618c460f1b7', name:'Buddhist Culture, The Cultured Buddhist (68)  |  txt jpg epub mobi', type:'country' },
+
+
+{ id: '02e2b40fc1e53c6f2059888b54ecc663', name:'Robert Hugh Benson', writer:'Robert Hugh Benson', type:'author',
+children:[{_reference:'aedbee1e3120a6fb620b5defbc87d9a5'}]},
+	
+{ id: 'aedbee1e3120a6fb620b5defbc87d9a5', name:'Dawn of All (55)  |  epub txt mobi', type:'country' },
+
+
+{ id: '0d172ef4fb2ed1af3bdce39928bc3f56', name:'Robert L. Schrag', writer:'Robert L. Schrag', type:'author',
+children:[{_reference:'bd012fb3ab08739b5419f289e6c965bb'}]},
+	
+{ id: 'bd012fb3ab08739b5419f289e6c965bb', name:'The God Chord_ String Theory In The Landscape of the Heart (53)  |  epub txt mobi', type:'country' },
+
+
+{ id: '40411fc39ec6ff4fa76622869a777961', name:'Robert Louis Stevenson', writer:'Robert Louis Stevenson', type:'author',
+children:[{_reference:'08a14ca342a53c9151adf15ae75d8dbb'}]},
+	
+{ id: '08a14ca342a53c9151adf15ae75d8dbb', name:'A Christmas Sermon (62)  |  epub jpg txt', type:'country' },
+
+
+{ id: 'd11b6d60effddf438b4d0b593fb2916a', name:'Svedenborg', writer:'Svedenborg', type:'author',
+children:[{_reference:'c0db984bbd05ef08d1cdbbe358413bfe'}]},
+	
+{ id: 'c0db984bbd05ef08d1cdbbe358413bfe', name:'Spiritual Life and the Word of God, by Svedenborg (43)  |  prc epub txt', type:'country' },
+
+
+{ id: 'e7925c1483f69b9f9c1d31bb48a48f8d', name:'Thanissaro Bhikkhu', writer:'Thanissaro Bhikkhu', type:'author',
+children:[{_reference:'83ab6fd22dddf99f22d07cea743da9ac'},{_reference:'4317c987de7e2095a5190f209336f4a1'}]},
+	
+{ id: '83ab6fd22dddf99f22d07cea743da9ac', name:'Karma (75)  |  mobi jpg txt epub', type:'country' },
+	
+{ id: '4317c987de7e2095a5190f209336f4a1', name:'The Road to Nirvana Is Paved with Skillful Intentions (77)  |  epub txt mobi jpg', type:'country' },
+
+
+{ id: '599ac61f571a41746f6120a6d1174bb4', name:'Theodor Fontane', writer:'Theodor Fontane', type:'author',
+children:[{_reference:'22d1f9e6b45bc554395aaddcdacbfcb7'}]},
+	
+{ id: '22d1f9e6b45bc554395aaddcdacbfcb7', name:'Unterm Birnbaum (42)  |  prc epub txt jpg', type:'country' },
+
+
+{ id: 'b9ec42a139650ebc69a53afcca23b36e', name:'Thomas Jefferson', writer:'Thomas Jefferson', type:'author',
+children:[{_reference:'ab8342fa301b8478029058ac95709ab1'}]},
+	
+{ id: 'ab8342fa301b8478029058ac95709ab1', name:'Declaration of Independence (66)  |  txt jpg epub', type:'country' },
+
+
+{ id: 'a46e476e5f0e6e8f1a7f77a009a44d2f', name:'University of California Libraries', writer:'University of California Libraries', type:'author',
+children:[{_reference:'b421f9636f79947d2de551a287b07c8b'}]},
+	
+{ id: 'b421f9636f79947d2de551a287b07c8b', name:'Goody Two_Shoes  |  epub txt', type:'country' },
+
+
+{ id: '4e003964b6d01099bce8a822838c05e8', name:'William Olaf Stapledon', writer:'William Olaf Stapledon', type:'author',
+children:[{_reference:'fa8566cf3af885700578108437bceeca'}]},
+	
+{ id: 'fa8566cf3af885700578108437bceeca', name:'The Seed and the Flower (54)  |  txt epub mobi', type:'country' },
+
+
+{ id: '019e95a72040971cde99faaa0723209a', name:'William Shakespeare', writer:'William Shakespeare', type:'author',
+children:[{_reference:'a01253b9cf4527c07229ebfdcd3c0f04'},{_reference:'ada0797303a18bf71b88d89da6948ddb'}]},
+	
+{ id: 'a01253b9cf4527c07229ebfdcd3c0f04', name:'Comedy of Errors  |  txt epub', type:'country' },
+	
+{ id: 'ada0797303a18bf71b88d89da6948ddb', name:'The Puritaine Widdow  |  epub txt', type:'country' },
+
+
+{ id: 'a56f9f7ec13d4fe4c4e1981244c33b69', name:'www.nderf.org', writer:'www.nderf.org', type:'author',
+children:[{_reference:'e4d48e03161f1866ff0e4d8cf5f24eac'}]},
+	
+{ id: 'e4d48e03161f1866ff0e4d8cf5f24eac', name:'nderef.org.Summaries (11)  |  epub mobi txt', type:'country' },	        { id: 'IT', name:'Italy', type:'country' }
+]}

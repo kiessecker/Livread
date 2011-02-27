@@ -1,0 +1,6 @@
+{
+identifier: 'id',
+label: 'name',
+items: [
+	        { id: 'IT', name:'Italy', type:'country' }
+]}

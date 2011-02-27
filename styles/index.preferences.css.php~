@@ -1,0 +1,16 @@
+<?php
+	require_once("../config/config.php");
+	header('Content-type: text/css');
+?>
+
+BODY, H1, H2, H3, P, DIV, SPAN,TD {
+	font-family:verdana, helvetica;
+}
+
+
+
+H1 { font-size:12px; font-weight:bold; }
+H2 { font-size:12px; font-weight:normal; }
+BODY, TD, P, DIV, INPUT {
+ font-size:11px; font-weight:normal; 
+}
